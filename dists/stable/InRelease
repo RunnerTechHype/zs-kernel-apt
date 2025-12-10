@@ -1,32 +1,38 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Wed, 10 Dec 2025 14:35:40 +0000
+Codename: zombie-stories
+Components: main
+Date: Wed, 10 Dec 2025 14:40:51 +0000
+Description: A Custom Linux Kernel based for Zombie Stories Kernel
+Label: zs-kernel
+Origin: RunnerTechHype
+Suite: stable
 MD5Sum:
- 6902d591a081f58d0203a9b3a3cc0721               38 dists/stable/Release
+ 5d8d55b3df2b6f71d0db678f53a8a144              201 dists/stable/Release
  e8e3ee58800a50901e55ce9b2070cd3a             1715 dists/stable/main/binary-amd64/Packages
 SHA1:
- 566772336c2b7e9863ff2b7401c86f9e7fe8aefd               38 dists/stable/Release
+ 4c8e00a49980fe6bfa0313c122848d7654422472              201 dists/stable/Release
  bb829066e8118574d4a6b4d40f582ed199ac6ecd             1715 dists/stable/main/binary-amd64/Packages
 SHA256:
- 36479873d8371e27b2a0686d9aae60676a724ba559634f8c891f4457ce8d9b24               38 dists/stable/Release
+ 5bde2f009c9d77bde1ebe21af01df828d4a9339dbe01a8ffcfacb64c24d65116              201 dists/stable/Release
  566a11682f9df35c280fcec03da5dce115870c9093351d6e806e3df4670887ea             1715 dists/stable/main/binary-amd64/Packages
 SHA512:
- 3e44bc9f021a936648511396024961fbc25ed243319070355eb37095fffb4df69f1baa2e89ff7f4b92c09880f0a46323ab15e8f906a8247f4823d8ea0ab69c58               38 dists/stable/Release
+ 521abdff363546841186f969ee072975bca78ff998362986814df7f0e2e78b1485135cfe408f833b4f71beeb64bc413217451d424233272f169c768048b4cc0e              201 dists/stable/Release
  b6af72e516430d81bdff3d72fdfcfffd551cc705d2faeedb678589062b108f07cf749c206462dbf3aa1f4a1a80165fc76d07a4c22c0cd78cc46e9708a33ee008             1715 dists/stable/main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEPBvS6I0YcHeptGOH95cDIBTKtH4FAmk5hUMACgkQ95cDIBTK
-tH5xvBAAiCWbUkoDgV9WEp3MXuhzi8t0DFYEydEXx80MEHj107GzcxGZ0w3vw2Ks
-eCVpmpsD+RCWxWj8PN9UCv/ViEZSxcCH5p/gOvrlkvoFomxdZIXtOq8DBBHel6r1
-Nv6yfJ/pxOoJtZPmXDCRMgOtXBpu2a5W3imfPT7vN/aRGsS47Bf1mib65x1Qm5Em
-5pWyKUJH1Hod8zarAMKrYZ33rfxYH4TZjgSYFd58PFEXssdy+3zR5s2vZIKGckKk
-yJOz/DM8eAAhSsJzrc2StsoswyywlIWs33xW6kmPi1HQT4KGrxuBwa5elvva2ANc
-NOJlwQh7AJyiU/EJuKMD1pRj3RP3NHhvE9xWzzrgT4qzOYMTs8owu9zvpLq0vyGl
-4N28N77hLhufYlsBMGWYGzPLjPqyTfygH43lUFUabVmDJ5qyegxDAyhAAFa12BxB
-7OvfqBchU0SvfVYDFAdcIS/0IcaD9ZE8Ksam/BldU7yZdilabUQc4IutFEH0KcIQ
-PPfVX2jwimTJWycRspxvrk2lpW+MAtrPlx7Ea8PCYz8BEYByk1XNOuQB4G+0I9qK
-VvfuvGKtvlS4kwY4cZJiuCDm1ch+k973ruTc9+SA0hV6O99mkUuvJAPM5sf1AcZj
-NlQU8XLEP+q0JXGxKAywb3PBD8vWOlNuEYl/XjbUq7qMqXi/8XE=
-=Ycg8
+iQIzBAEBCgAdFiEEPBvS6I0YcHeptGOH95cDIBTKtH4FAmk5hnwACgkQ95cDIBTK
+tH7O1RAAkTtEVUUox9lSXOmZC+ZjF4nSFYyUF2z2IM8qPIIEgcPlwrEHnZ1E3zna
+6FICqxgKITWCZJyYT97ImzxEzWtXnqLdOQlLXJEFfsc0HI5t5tapmDj/r+9IgUsH
+7JWbdzBKiT+1n7BChnzC3tA/fpbYvJH+OgxGMYVUtFh7RYWHoZFLWi4WKbkJ+g7c
+q3W6cVigyGsUx91jTi/hs8iQy8oeMNNnD86IBvLYki6zFBq2SSacOhHfJbXXsTJh
+iIu90polj80Kt3nZ5tkBXB3PONl06yWYWaNcTXP8EtUPcdOH09vMGORSTI7jMGrT
+57zszQmsa5m/P4Qx/aduSSD95l32FG/AfFbIjNm6FiO338ncj5V5vRsL8DHD1FJs
+HtzXe5kTgRmyQqdkqRJh3rufRpufQwYB/ZtXLGVP5agQ28IPT6c5oZPtCSyKi9eb
+7HRzhVwKuWoL4csXyAtgq9YkkVW0j/KYmYCGvigQyYblfmD46P5vmAZIrtMAQE28
+45lNnf2omI6BLOcgPwQelUfZx9k+fumAhrhzV7w144MXxmY8fHlM24gfHl+pH+uq
+epBT968z9CQGO/UPSSavCsCh3DsFbZoFqrObB0qWm0S4+obeRBsDrrID46OH8kpK
+977D7fJLnAQZnXXJr4Zoo3bIal77YWKyXfhqUS9eDI4/MdCkhaU=
+=G8Q8
 -----END PGP SIGNATURE-----
