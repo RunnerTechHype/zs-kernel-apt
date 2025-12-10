@@ -1,20 +1,13 @@
-Architectures: amd64
-Codename: zombie-stories
-Components: main
-Date: Wed, 10 Dec 2025 13:00:03 +0000
-Description: A Custom Linux Kernel based for Zombie Stories Kernel
-Label: zs-kernel
-Origin: RunnerTechHype
-Suite: stable
+Date: Wed, 10 Dec 2025 14:26:20 +0000
 MD5Sum:
- 75cef8e76fc39d33383d824845dea697              222 Release
- c199c171b3028d8a1ee5977e5154900b             1495 dists/stable/main/binary-amd64/Packages
+ 5a968cf0659502080e0ec9c55ac56fe8               38 dists/stable/Release
+ e8e3ee58800a50901e55ce9b2070cd3a             1715 dists/stable/main/binary-amd64/Packages
 SHA1:
- babd4437b3a84a98396c07c21bba657ac71f08a3              222 Release
- 5db0c14ab86b87804c4a917bcc52146f45f6ed9b             1495 dists/stable/main/binary-amd64/Packages
+ 82238e0fb72694afd7533c058e57393b42f03859               38 dists/stable/Release
+ bb829066e8118574d4a6b4d40f582ed199ac6ecd             1715 dists/stable/main/binary-amd64/Packages
 SHA256:
- 599bea39323bed6aac020e048d4a1fbe324b5ad2b0d68649444b6efae0654939              222 Release
- e36573630c9553f401a6662749f06b1adda7cf9509b8c3c06e3b939b2342f5e0             1495 dists/stable/main/binary-amd64/Packages
+ a4e1f9a80cf768b41ae78d8fcd5d1694e1e6091f7bc4e23e5af4336427f15311               38 dists/stable/Release
+ 566a11682f9df35c280fcec03da5dce115870c9093351d6e806e3df4670887ea             1715 dists/stable/main/binary-amd64/Packages
 SHA512:
- c909b7a1eaed690d1ce16c2fdccb6ac4c4661aed08fb658506b4d981f9d0fc72ad055f7a10241cbf300a221ed8e21731ceea25ae6f2073acf3e4aa695d9f3309              222 Release
- 7afe074de7aa60baedde5531a219a31e797b1a4a3904faaf98f98a415f52307c9307cc657151362418557c36358bb05ca67ba9937ef80dd5f1bcb64fb0930300             1495 dists/stable/main/binary-amd64/Packages
+ 1aacb61635a6ed636ee8f4ea41aec90a1e742b6dee58dab8b9a40f52b5fb5ec56417d62923806d8d7f0b066d988cd30882ac4dda25a5ad7bb3b8c4e4efef6858               38 dists/stable/Release
+ b6af72e516430d81bdff3d72fdfcfffd551cc705d2faeedb678589062b108f07cf749c206462dbf3aa1f4a1a80165fc76d07a4c22c0cd78cc46e9708a33ee008             1715 dists/stable/main/binary-amd64/Packages
