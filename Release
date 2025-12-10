@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: zombie-stories
+Components: main
+Date: Wed, 10 Dec 2025 13:00:03 +0000
+Description: A Custom Linux Kernel based for Zombie Stories Kernel
+Label: zs-kernel
+Origin: RunnerTechHype
+Suite: stable
+MD5Sum:
+ 75cef8e76fc39d33383d824845dea697              222 Release
+ c199c171b3028d8a1ee5977e5154900b             1495 dists/stable/main/binary-amd64/Packages
+SHA1:
+ babd4437b3a84a98396c07c21bba657ac71f08a3              222 Release
+ 5db0c14ab86b87804c4a917bcc52146f45f6ed9b             1495 dists/stable/main/binary-amd64/Packages
+SHA256:
+ 599bea39323bed6aac020e048d4a1fbe324b5ad2b0d68649444b6efae0654939              222 Release
+ e36573630c9553f401a6662749f06b1adda7cf9509b8c3c06e3b939b2342f5e0             1495 dists/stable/main/binary-amd64/Packages
+SHA512:
+ c909b7a1eaed690d1ce16c2fdccb6ac4c4661aed08fb658506b4d981f9d0fc72ad055f7a10241cbf300a221ed8e21731ceea25ae6f2073acf3e4aa695d9f3309              222 Release
+ 7afe074de7aa60baedde5531a219a31e797b1a4a3904faaf98f98a415f52307c9307cc657151362418557c36358bb05ca67ba9937ef80dd5f1bcb64fb0930300             1495 dists/stable/main/binary-amd64/Packages

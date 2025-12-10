@@ -1,0 +1,37 @@
+Package: zs-kernel-headers
+Source: linux-upstream
+Version: 6.18.0-130300-zombie-stories-3
+Architecture: amd64
+Maintainer: runner <runner@ZombieStories>
+Installed-Size: 56469
+Filename: /home/runner/zs-kernel-apt/dists/stable/main/binary-amd64/zombie-stories-kernel-headers.deb
+Size: 9720356
+MD5sum: 72c12fde03ec12796fb8b0256f63b0b8
+SHA1: eaf0ff4e1a154b4ed31bb1d43ccdf0079a554ab5
+SHA256: b7e3e9440b1f609c5ba615878182b0ad862cf9f5ce617bbfe88be2b59a3a0a06
+Section: kernel
+Priority: optional
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.18.0-130300-zombie-stories on amd64
+ This package provides kernel header files for 6.18.0-130300-zombie-stories on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: zs-kernel
+Source: linux-upstream
+Version: 6.18.0-130300-zombie-stories-3
+Architecture: amd64
+Maintainer: runner <runner@ZombieStories>
+Installed-Size: 174059
+Filename: /home/runner/zs-kernel-apt/dists/stable/main/binary-amd64/zombie-stories-kernel.deb
+Size: 163632004
+MD5sum: c431f9bfc84c70acce5a991a05cecb31
+SHA1: 11d87de057a774416157a7a84af0265b0fa2cbf3
+SHA256: e71866a1779531b07d6db56fe0d2b8b7893045f290c2b2dfe77321f048f57dbb
+Section: kernel
+Priority: optional
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.18.0-130300-zombie-stories
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.0-130300-zombie-stories.
+

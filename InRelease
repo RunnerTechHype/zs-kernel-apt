@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: zombie-stories
+Components: main
+Date: Wed, 10 Dec 2025 13:00:03 +0000
+Description: A Custom Linux Kernel based for Zombie Stories Kernel
+Label: zs-kernel
+Origin: RunnerTechHype
+Suite: stable
+MD5Sum:
+ 75cef8e76fc39d33383d824845dea697              222 Release
+ c199c171b3028d8a1ee5977e5154900b             1495 dists/stable/main/binary-amd64/Packages
+SHA1:
+ babd4437b3a84a98396c07c21bba657ac71f08a3              222 Release
+ 5db0c14ab86b87804c4a917bcc52146f45f6ed9b             1495 dists/stable/main/binary-amd64/Packages
+SHA256:
+ 599bea39323bed6aac020e048d4a1fbe324b5ad2b0d68649444b6efae0654939              222 Release
+ e36573630c9553f401a6662749f06b1adda7cf9509b8c3c06e3b939b2342f5e0             1495 dists/stable/main/binary-amd64/Packages
+SHA512:
+ c909b7a1eaed690d1ce16c2fdccb6ac4c4661aed08fb658506b4d981f9d0fc72ad055f7a10241cbf300a221ed8e21731ceea25ae6f2073acf3e4aa695d9f3309              222 Release
+ 7afe074de7aa60baedde5531a219a31e797b1a4a3904faaf98f98a415f52307c9307cc657151362418557c36358bb05ca67ba9937ef80dd5f1bcb64fb0930300             1495 dists/stable/main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEPBvS6I0YcHeptGOH95cDIBTKtH4FAmk5bz4ACgkQ95cDIBTK
+tH5EdA//Rs6w1IiZ6u7vv3JDD/qC5vUX/lvtQ/N5JLcvokEg60qZUXKRl2eOo7da
+6CLxiduGMbzc3sfCnX5o050WZ9XRby11uHCvn18PaYIWf714Hm8O0Tu/kB7wr2dO
+sZhGcF1QKLKYs52kOdN9aN4fhPmhyYL4U10Mhg1KlmQ00nFCTTk26Z+TGushJ2dx
+bbcdAkDLH1Jg969c49ZzFe/Qs4oR1X9yUr/EOoUMwXVBpJMqlvay2K0Ih77XbN6a
+cl1nY+8W+5oW+OL6WwcOD/T6LSBLHIlQHtQ8+VNTD7UTO4gc2jvEzJKc8ZAfAQ/T
+sS19J6a62m2kDHKi1vP5AXu+x6vVlYeK0RS0tc7SEf86n5wxisAKVK1+Fr9INAV8
+R2ogxaAuIQQ9bn1CoTGxigamukqkgF5N7JUeU+X09FE58jkRzeeJSHQF8S22AxAZ
+kEr/7zM/tVSSEFzFrVbi6mHyQ7wf+UYVaz8lxI2L2wNyc8/0YjZCEnW9d9s0PTh0
+v784+KrtW2GdEi5pjdaK7ySNDPN69RamrXFUCeTeX9VjmdTVhgX90wCzV8UwZ0Kc
+5D9T22IgeyoufQ2sHpVHjXSAonQWzD0Ky9Eq/0WYDstwLaEO8sHX2P5iSOb4mDjJ
+CPbr5MWDZslhIfAwUiARQroXwipAwlePHaDTolpKrK52gnPQu0M=
+=QzN8
+-----END PGP SIGNATURE-----
