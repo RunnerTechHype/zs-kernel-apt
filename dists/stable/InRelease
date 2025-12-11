@@ -3,36 +3,36 @@ Hash: SHA512
 
 Codename: zombie-stories
 Components: main
-Date: Thu, 11 Dec 2025 03:56:51 +0000
+Date: Thu, 11 Dec 2025 04:13:21 +0000
 Description: A Custom Linux Kernel based for Zombie Stories Kernel
 Label: zs-kernel
 Origin: RunnerTechHype
 Suite: stable
 MD5Sum:
- 66375d6702b8500830a1ccaa38a5e76f              201 dists/stable/Release
- d41d8cd98f00b204e9800998ecf8427e                0 dists/stable/main/binary-amd64/Packages
+ c1dc6510b66f65c619644c6524088e12              201 dists/stable/Release
+ e8e3ee58800a50901e55ce9b2070cd3a             1715 dists/stable/main/binary-amd64/Packages
 SHA1:
- a33703ad2f96ce9b35321f8dbfb2b5163aa15f16              201 dists/stable/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 dists/stable/main/binary-amd64/Packages
+ aa059d118fb3c7f9493d194fc8c4777526d23c85              201 dists/stable/Release
+ bb829066e8118574d4a6b4d40f582ed199ac6ecd             1715 dists/stable/main/binary-amd64/Packages
 SHA256:
- 52f54630dbf527ec0d194279544a69415a69e45fb5d895fd4852fb75dc47f75f              201 dists/stable/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 dists/stable/main/binary-amd64/Packages
+ 19383c85a065315e65e828efb4160332d60628af88bd978dba575039d26709d5              201 dists/stable/Release
+ 566a11682f9df35c280fcec03da5dce115870c9093351d6e806e3df4670887ea             1715 dists/stable/main/binary-amd64/Packages
 SHA512:
- df4cca7d4256226cbb12451c7dfd30f68551815ff50dc338824dbbfae69f1d0f2cafa6ecb7b48c1909af77dcccc8ccd3c743a4028733399fbd91604fb35e0897              201 dists/stable/Release
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 dists/stable/main/binary-amd64/Packages
+ eb51f3df67a468e7388aa655f91278658a48795a82c5d1ae541b85cf7f4c17dc5f4e6fb779ff70d5ce811110f6d5443f86e57200e56a77743f181f9c7c216ef2              201 dists/stable/Release
+ b6af72e516430d81bdff3d72fdfcfffd551cc705d2faeedb678589062b108f07cf749c206462dbf3aa1f4a1a80165fc76d07a4c22c0cd78cc46e9708a33ee008             1715 dists/stable/main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEPBvS6I0YcHeptGOH95cDIBTKtH4FAmk6QQgACgkQ95cDIBTK
-tH4bNA//c+8T1erooG3JC5WHpVDV1HP7NWpKTrSgB3VzMbGlG3R7O+i/pB8Oq77P
-RbUIvt7+omSHiLxVXYi9zmdq0xyiGLd2dwzW+y3M8l1dfe2MxgH4cBM3mb9pUQOi
-i/4rjtPFJv7cjhLkNRNReG3RVyVE9HEXtLM8ZgAjLDQ8xyoKrdlPvDFqIsCOzdlG
-aBm9u/vnjAyE9soufNDbPj/6IR+7DJhxQKR9o5HqKtDGmuTewiUuSAFe5WOdCwB9
-bsZnSEr/ZQa3RCmEOTSJEIz2bvelx/isJns0auITnO4tmWne5W/MJIYXt1fRX/lp
-IC3rlZMgq4ZK2WZesYr0cMqjk+E01D0htCT0gmsAnkHw4t9D4bwaUkOpL8/eC0Xk
-IKkwFyB4ZdyWpqxJV8TJZQNacAIpt7hrfgGDJqhuvXd9BYuIQHoVCk9g8Wn7rWZB
-G1E0Z+fIYekkoPCjzHOoze7hKm30/1KO9VcpKV7gdkGxYUcUylj9s1+kcchalaFT
-dHl6YmfUf/Qy7+6Fa8vBUvpIVbbmryQXu08gzsJVRgJJ198kjGdt19bcTPIXIong
-pbL6LMPTr+PZZkrUlzXKq+9v8VIx4jw9tQjY/ObKwu8CFWMgYX++dZk8pOI3aF0g
-1if3Xf6pUtxRA11iwepWmKQOBOnJ2RbvWnq/464mFWY3bu1VUI4=
-=EPxj
+iQIzBAEBCgAdFiEEPBvS6I0YcHeptGOH95cDIBTKtH4FAmk6ROYACgkQ95cDIBTK
+tH6hGg//es48F2+eOQMriC3SFjlrv3MxZDgVPnNhWS0xNeY/DIF7ZAeOgdlEXD11
+6E1ab8iLmd1Q8hGKiNEWHzVgasDcgKyt0do8RZu/I+SXrJqWnYjaS+01T1MjmCQS
+kpPTaM41z76/IwPiLqB3SkGewmsmLP7r3yDjOda2jbM7Ki9SF08PfWhAmBxQbW8H
+mL7vnkUxNK0dpPlkn25AECA7vVWkENWQ0onWgj7/nLGaCaOS7Qm5oMiKNO8S4PF1
+szVz7id3lolkY7C2J48Ne0LVimQILqjLvATx+1HsAT0CxFd5kQNUlaxPt8qqWDGH
+Rm11S54mKblma+/HszynvZgIupnpqimz6ty2PDWJz2nsT7GcOAav9IN33FiAsTgB
+hwtY6UmgXW/sjcmg9NZQGPIuXVQN6FX5qyBs1zrM+GtRnHdBdqOjhcrE0jYjuGuD
+aqqtwzIYu3DkZGJOE+VThNTBaDHxkcCG5BAWtUHLfYbmaAUdZmV9FqUT2vMUPM4r
+hFZYEMw1KzBrNXZviYyHHEEs3UQ0OnlZxIVbN19FsNbA51Qv0Kry0rub/5QR25q5
++qPomfYrd0+rWGasAK2BU2XsdN9bYl4jrAHPCkw2Pq++5IH85IlMi3GVT5sJ6lhi
+GXvXM2N79CGgS6ii1VP8C07XueyOQFRwEbF8+A6Uiobe7CyJ35Y=
+=lQoZ
 -----END PGP SIGNATURE-----
