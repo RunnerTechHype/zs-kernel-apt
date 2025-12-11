@@ -1,19 +1,23 @@
 Codename: zombie-stories
 Components: main
-Date: Thu, 11 Dec 2025 04:13:21 +0000
+Date: Thu, 11 Dec 2025 04:21:46 +0000
 Description: A Custom Linux Kernel based for Zombie Stories Kernel
 Label: zs-kernel
 Origin: RunnerTechHype
 Suite: stable
 MD5Sum:
- c1dc6510b66f65c619644c6524088e12              201 dists/stable/Release
+ 415d7348a40ff9d9ff21bb3ff2512890              201 dists/stable/Release
  e8e3ee58800a50901e55ce9b2070cd3a             1715 dists/stable/main/binary-amd64/Packages
+ 031e77cf2309b365bca98aaac422de75              790 dists/stable/main/binary-amd64/Packages.gz
 SHA1:
- aa059d118fb3c7f9493d194fc8c4777526d23c85              201 dists/stable/Release
+ 6784dcb5daa65336a0846818ca3b337f4d3e630f              201 dists/stable/Release
  bb829066e8118574d4a6b4d40f582ed199ac6ecd             1715 dists/stable/main/binary-amd64/Packages
+ 1abc2f502858022229419972c411c7b16fc0cd76              790 dists/stable/main/binary-amd64/Packages.gz
 SHA256:
- 19383c85a065315e65e828efb4160332d60628af88bd978dba575039d26709d5              201 dists/stable/Release
+ d83c50c07cf25ccb069800e616caffe095778008372d50936a39b952fc0e6243              201 dists/stable/Release
  566a11682f9df35c280fcec03da5dce115870c9093351d6e806e3df4670887ea             1715 dists/stable/main/binary-amd64/Packages
+ 6d9f4a63c4e7ad2faed7ad53abcb41a742f0c53ecd4ed27330207708adb886ed              790 dists/stable/main/binary-amd64/Packages.gz
 SHA512:
- eb51f3df67a468e7388aa655f91278658a48795a82c5d1ae541b85cf7f4c17dc5f4e6fb779ff70d5ce811110f6d5443f86e57200e56a77743f181f9c7c216ef2              201 dists/stable/Release
+ d6e3970b4a5c7b6b44557a0df878f566011f1404ccb5062b8c8727b49524f21549953e3275484862707f74c6f951783d5f9f0e74e3dd6c5ce9ad83960323dc3f              201 dists/stable/Release
  b6af72e516430d81bdff3d72fdfcfffd551cc705d2faeedb678589062b108f07cf749c206462dbf3aa1f4a1a80165fc76d07a4c22c0cd78cc46e9708a33ee008             1715 dists/stable/main/binary-amd64/Packages
+ 63f712724797a4facea177b983e9eaadf5b8d972654b2f90ee059154a3b8fb48cbbd26b93fe3007bff5c58f6c0bc126c8cf5e054637c07f61f384621560e3206              790 dists/stable/main/binary-amd64/Packages.gz
